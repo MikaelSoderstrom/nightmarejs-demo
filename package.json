@@ -1,0 +1,27 @@
+{
+  "name": "nightmarejs-demo",
+  "version": "1.0.0",
+  "description": "Using Nightmare.js with mocha and chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MikaelSoderstrom/nightmarejs-demo.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "nightmare",
+    "nightmare.js",
+    "test",
+    "demo"
+  ],
+  "author": "Mikael Söderström",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikaelSoderstrom/nightmarejs-demo/issues"
+  },
+  "homepage": "https://github.com/MikaelSoderstrom/nightmarejs-demo"
+}
