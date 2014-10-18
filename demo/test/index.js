@@ -60,10 +60,3 @@ describe('Nightmare demo', function () {
         });
     });
 });
-
-    //new Nightmare()
-    //  .goto('http://localhost:3000')
-    //  .type('input[name="sometext"]', 'Hello, world!')
-    //  .click('input[type="submit"]')
-    //  .screenshot(path.join(__dirname, 'screenshot.png'))
-    //  .run(function (err, nightmare) {});
