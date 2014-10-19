@@ -2,10 +2,6 @@
 var Nightmare = require('nightmare');
 var should = require('chai').should();
 
-function getElementById(elements, id) {
-
-}
-
 describe('Nightmare demo', function () {
     this.timeout(15000); // Set timeout to 15 seconds, instead of the original 2 seconds
 
